@@ -40,7 +40,7 @@
 
 ## Accessing the Project
 
-- **Live Deployment**: [Alumni Connect Platform](https://alumni-client-side-by5mbdexr-shivs-projects-0bdf001e.vercel.app)
+- **Live Deployment**: [Alumni Connect Platform](https://client-side-alumni-connect.vercel.app/)
 
 ### Access Login Details for Roles:
 
